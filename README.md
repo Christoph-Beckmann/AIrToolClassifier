@@ -15,9 +15,23 @@ Designed to revolutionize how we handle digital tools, this tool automates the c
 
 ## Installations
 
+### Via GitHub
+
 1. Ensure Python 3.8+ is installed on your system.
 2. Clone the repository to your local machine.
 3. Install required dependencies by running `pip install -r requirements.txt`.
+4. Adapt .env-File.
+
+### Via Python Package Index (PIP)
+
+1. Visit [PyPi Website](https://pypi.org/project/AIrToolClassifier/).
+2. Or install via `pip install AIrToolClassifier`.
+3. Go to installation folder and create an `.env` file. See [template](https://github.com/Christoph-Beckmann/AIrToolClassifier/blob/main/.env_template).
+
+### Via pipx
+
+1. Install via `pipx install AIrToolClassifier`
+2. Go to installation folder and create an `.env` file. See [template](https://github.com/Christoph-Beckmann/AIrToolClassifier/blob/main/.env_template). Folder should be something like '~/Library/Application Support/pipx/venvs/airtoolclassifier/lib/python3.12/site-packages/airtoolclassifier'
 
 ## Configuration
 
