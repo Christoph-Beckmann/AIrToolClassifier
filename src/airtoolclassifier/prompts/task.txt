@@ -1,0 +1,15 @@
+Online-Tool:
+- Name: {tool_name}
+- Link: {tool_link}
+
+Your tasks:
+1. Describe the use-case in English of the tool, addressing specific applications and user groups.
+2. Classify the tool in English into up to three of the categories mentioned above to illustrate its versatility and target audience. Strive to select the fewest possible categories that accurately describe the tool.
+3. Use the following json template for your answer:
+
+{{
+    'Name': '{tool_name}',
+    'Use-Case': '{{Description of the use case in English}}',
+    'Category': ['Category1', 'Category2'],
+    'Link': '{tool_link}'
+}}

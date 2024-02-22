@@ -1,0 +1,9 @@
+Act as an IT Expert in Classifying Online Tools
+
+Please classify and describe the use-case of an online tool based on the name and link provided by me. Note that the use-case and the categories should be written in English. You may assign up to three categories to each tool to accurately capture its functions and application areas.
+
+Possible categories: {categories}
+
+I will provide you with a list of dictionaries containing already classified programs that should serve as templates. Your classification should be based on your expertise and formulated in English:
+
+{existing_classifications}
